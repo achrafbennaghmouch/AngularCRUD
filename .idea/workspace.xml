@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="158cabf2-36e0-45af-84db-2bab808d900c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/AngularCRUD.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BACKEND/src/main/java/com/management/entities/Role.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BACKEND/src/main/java/com/management/entities/UserEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BACKEND/src/main/java/com/management/repositories/RoleRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BACKEND/src/main/java/com/management/repositories/UserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Angular.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BACKEND/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/BACKEND/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BACKEND/src/main/java/com/management/MainApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/BACKEND/src/main/java/com/management/MainApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BACKEND/src/main/java/com/management/entities/Category.java" beforeDir="false" afterPath="$PROJECT_DIR$/BACKEND/src/main/java/com/management/entities/Category.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BACKEND/src/main/java/com/management/entities/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/BACKEND/src/main/java/com/management/entities/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BACKEND/src/main/java/com/management/repositories/CategoryRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/BACKEND/src/main/java/com/management/repositories/CategoryRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BACKEND/src/main/java/com/management/repositories/ProductRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/BACKEND/src/main/java/com/management/repositories/ProductRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BACKEND/src/main/java/com/management/restcontrollers/CategoryRestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/BACKEND/src/main/java/com/management/restcontrollers/CategoryRestController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BACKEND/src/main/java/com/management/restcontrollers/ProductRestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/BACKEND/src/main/java/com/management/restcontrollers/ProductRestController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BACKEND/src/main/java/com/management/services/ProductService.java" beforeDir="false" afterPath="$PROJECT_DIR$/BACKEND/src/main/java/com/management/services/ProductService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BACKEND/src/main/java/com/management/services/ProductServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/BACKEND/src/main/java/com/management/services/ProductServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BACKEND/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/BACKEND/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BACKEND/src/test/java/com/management/MainApplicationApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BACKEND/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/BACKEND/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BACKEND/target/classes/com/management/MainApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/BACKEND/target/classes/com/management/MainApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BACKEND/target/classes/com/management/entities/Category.class" beforeDir="false" afterPath="$PROJECT_DIR$/BACKEND/target/classes/com/management/entities/Category.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BACKEND/target/classes/com/management/entities/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/BACKEND/target/classes/com/management/entities/Product.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BACKEND/target/classes/com/management/repositories/CategoryRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/BACKEND/target/classes/com/management/repositories/CategoryRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BACKEND/target/classes/com/management/repositories/ProductRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/BACKEND/target/classes/com/management/repositories/ProductRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BACKEND/target/classes/com/management/restcontrollers/CategoryRestController.class" beforeDir="false" afterPath="$PROJECT_DIR$/BACKEND/target/classes/com/management/restcontrollers/CategoryRestController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BACKEND/target/classes/com/management/restcontrollers/ProductRestController.class" beforeDir="false" afterPath="$PROJECT_DIR$/BACKEND/target/classes/com/management/restcontrollers/ProductRestController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BACKEND/target/classes/com/management/services/ProductService.class" beforeDir="false" afterPath="$PROJECT_DIR$/BACKEND/target/classes/com/management/services/ProductService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BACKEND/target/classes/com/management/services/ProductServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/BACKEND/target/classes/com/management/services/ProductServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BACKEND/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BACKEND/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BACKEND/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BACKEND/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BACKEND/target/test-classes/com/management/MainApplicationApplicationTests.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2bAmJ5xGsb8acNrZMnTiFtRxLCI" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Maven.demo [clean,install].executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Spring Boot.MainApplication.executor": "Run",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Bennaghmouch/Documents/AngularCRUD/BACKEND/src/main/java/com/management/services",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "ts.external.directory.path": "C:\\Users\\Bennaghmouch\\Documents\\AngularCRUD\\FRONTEND\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Bennaghmouch\Documents\AngularCRUD\BACKEND\src\main\java\com\management\services" />
+      <recent name="C:\Users\Bennaghmouch\Documents\AngularCRUD\BACKEND\src\main\java\com\management\restcontrollers" />
+      <recent name="C:\Users\Bennaghmouch\Documents\AngularCRUD\BACKEND\src\main\java\com\management\repositories" />
+      <recent name="C:\Users\Bennaghmouch\Documents\AngularCRUD\BACKEND\src\main\java\com\management\entities" />
+      <recent name="C:\Users\Bennaghmouch\Documents\AngularCRUD\BACKEND\src\main\java\com\management" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.management.restcontrollers" />
+      <recent name="com.management.entities" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="MainApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="Spring-MySQL-2023" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.management.MainApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="158cabf2-36e0-45af-84db-2bab808d900c" name="Changes" comment="" />
+      <created>1705666182403</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1705666182403</updated>
+      <workItem from="1705666183596" duration="12323000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
